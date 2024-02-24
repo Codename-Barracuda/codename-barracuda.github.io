@@ -1,5 +1,7 @@
 ---
-title: "Homepage"
+layout: default
+title: "Home"
+banner: "/assets/images/banners/home.jpeg"
 ---
 
-Welcome to MYV Studios LTD.
+# More exciting content will come soon.
